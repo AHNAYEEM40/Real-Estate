@@ -1,0 +1,171 @@
+[
+    {
+        "id":"1",
+        "Image":"https://i.ibb.co/12P3Svs/download-1.jpg",
+        "estate_title":"Luxurious Beachfront Villa with Panoramic Ocean Views",
+        "segment_name":"Investment Properties",
+        "description":"Welcome to your seaside sanctuary! This luxurious beachfront villa offers unparalleled views of the sparkling ocean from every room. With spacious living areas, a gourmet kitchen, and private beach access, it's the epitome of coastal elegance. Imagine waking up to the gentle sound of waves and enjoying panoramic sunsets from your own terrace. Whether you're entertaining guests or simply unwinding in the lap of luxury, this villa provides a serene escape from the hustle and bustle of everyday life. Indulge in beachfront living at its finest, where every detail is designed to enhance your coastal experience and create lasting memories.",
+        "Price":"10000",
+        "Status":"Sell",
+        "Area":"2000",
+        "location":"Gold Coast, Chicago, Illinois",
+        "facilities":"1.Skyline Views from Private Terraces,2.Indoor Basketball Court and Fitness Studio, 3.Resident Lounge with Billiards and Gaming Tables",
+        "Bed":"2 Beds",
+        "Baths":"2 Baths",
+        "F1":"wraparound porch",
+        "F2":"wood-burning fireplace",
+        "F3":"scenic views"
+
+     
+         
+    },
+    {
+        "id":"2",
+        "Image":"https://i.ibb.co/zSs7Tq9/download-2.jpg",
+        "estate_title":"Modern Downtown Condo with City Skyline View",
+        "segment_name":"Countryside Estates",
+        "description":"Step into urban sophistication in this modern downtown condo boasting floor-to-ceiling windows that frame breathtaking city skyline vistas. With sleek design elements, high-end appliances, and access to top-tier amenities, it's city living at its finest. From the moment you enter, you're greeted by an abundance of natural light and captivating views that set the tone for contemporary urban living. Whether you're enjoying morning coffee on your private balcony or entertaining guests in the open-concept living space, this condo offers both style and functionality. With proximity to dining, shopping, and cultural attractions, it's the perfect pied-à-terre for those who crave the excitement of city life without sacrificing luxury and comfort",
+        "Price":"15000",
+        "Status":"Sell",
+        "Area":"4000",
+        "location":"Buckhead, Atlanta, Georgia",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"3 Beds",
+        "Baths":"2 Baths",
+        "F1":"private rooftop pool",
+        "F2":"spacious terrace",
+        "F3":"home automation system"
+
+      
+    },
+    {
+        "id":"3",
+        "Image":"https://i.ibb.co/Hqj8VK6/download-3.jpg",
+        "estate_title":"Charming Countryside Cottage with Tranquil Garden",
+        "segment_name":"Vacation Villas",
+        "description":"Escape to the countryside and discover this charming cottage nestled amidst tranquil gardens. Featuring a cozy fireplace, exposed wooden beams, and a wrap-around porch, it's the perfect retreat for those seeking peace and serenity. Imagine spending lazy afternoons reading a book in the shade of the garden or cozying up by the fire on chilly evenings. With its rustic charm and idyllic setting, this cottage offers a welcome respite from the hustle and bustle of modern life. Whether you're sipping tea on the porch swing or exploring the nearby countryside, this cottage provides a quintessential country living experience that's sure to enchant and rejuvenate",
+        "Price":"2000",
+        "Status":"Rent",
+        "Area":"5000",
+        "location":"River Oaks, Houston, Texas",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"4 Beds",
+        "Baths":"2 Baths",
+        "F1":"backyard",
+        "F2":"modern kitchen",
+        "F3":"home office"
+     
+    },
+    {
+        "id":"4",
+        "Image":"https://i.ibb.co/cFvZY5V/download-4.jpg",
+        "estate_title":"Spacious Family Home in a Quiet Suburban Neighborhood",
+        "segment_name":"Historic Homes",
+        "description":"Make yourself at home in this spacious family abode located in a quiet suburban neighborhood. With multiple bedrooms, a large backyard, and proximity to parks and schools, it's an ideal setting for creating lasting memories. Picture family gatherings in the open-concept kitchen and living area, or summer barbecues in the expansive backyard. With room for everyone to spread out and relax, this home offers both comfort and convenience for modern family living. Whether you're hosting game nights with friends or enjoying quiet evenings at home, this suburban oasis provides a welcoming retreat from the hustle and bustle of city life",
+        "Price":"14000",
+        "Status":"Sell",
+        "Area":"6000",
+        "location":"Georgetown, Washington D.C.",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"3 Beds",
+        "Baths":"2 Baths",
+        "F1":"backyard",
+        "F2":"modern kitchen",
+        "F3":"home office"
+     
+  
+    },
+    {
+        "id":"5",
+        "Image":"https://i.ibb.co/419gnq0/download-5.jpg",
+        "estate_title":"Elegant Penthouse Apartment in the Heart of the City",
+        "segment_name":"Boutique Apartments",
+        "description":"Ascend to new heights in this elegant penthouse apartment situated in the heart of the city. Boasting panoramic views, designer finishes, and exclusive amenities such as a rooftop terrace and concierge service, it's luxury living redefined. From the moment you step off the private elevator, you're greeted by an atmosphere of sophistication and style. Whether you're entertaining guests in the spacious living area or enjoying a quiet evening on the terrace overlooking the city skyline, every moment in this penthouse is an experience to savor. With its prime location and unparalleled amenities, this penthouse offers a lifestyle of luxury and convenience for the discerning urban dweller",
+        "Price":"4000",
+        "Status":"Rent",
+        "Area":"7000",
+        "location":"Back Bay, Boston, Massachusetts",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"5 Beds",
+        "Baths":"3 Baths",
+        "F1":"private rooftop pool",
+        "F2":"spacious terrace",
+        "F3":"home automation system"
+        
+     
+    },
+    {
+        "id":"6",
+        "Image":"https://i.ibb.co/ZGMzxx2/download-6.jpg",
+        "estate_title":"Rustic Mountain Cabin with Spectacular Wilderness Surroundings",
+        "segment_name":"Suburban Retreats",
+        "description":"Embrace the great outdoors in this rustic mountain cabin surrounded by spectacular wilderness vistas. Whether you're cozying up by the stone fireplace or exploring nearby hiking trails, adventure awaits at every turn. Imagine waking up to the sound of birds chirping and the scent of pine in the air, then spending your days fishing in the nearby stream or simply soaking in the natural beauty that surrounds you. With its rustic charm and secluded location, this cabin offers a welcome retreat from the chaos of modern life. Whether you're seeking adventure or simply seeking solace, this mountain cabin provides the perfect setting for outdoor enthusiasts and nature lovers alike.",
+        "Price":"13500",
+        "Status":"Sell",
+        "Area":"8000",
+        "location":"Pacific Heights, San Francisco, California",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"3 Beds",
+        "Baths":"2 Baths",
+        "F1":"wraparound porch",
+        "F2":"wood-burning fireplace",
+        "F3":"scenic views"
+
+       
+    },
+    {
+        "id":"7",
+        "Image":"https://i.ibb.co/tJfn7Sw/download-7.jpg",
+        "estate_title":"Contemporary Loft with Industrial-Chic Design",
+        "segment_name":"Waterfront Estates",
+        "description":"Experience loft living at its finest in this contemporary space with industrial-chic design elements. Exposed brick walls, soaring ceilings, and open-concept living areas create a dynamic ambiance perfect for modern urbanites. Whether you're hosting dinner parties in the chef's kitchen or relaxing in the spacious living area, every inch of this loft is designed for both style and functionality. With its prime location in the heart of the city and proximity to dining, shopping, and entertainment options, this loft offers the ultimate urban lifestyle for those who appreciate the finer things in life",
+        "Price":"11000",
+        "Status":"Sell",
+        "Area":"5000",
+        "location":"South Beach, Miami, Florida",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"2 Beds",
+        "Baths":"2 Baths",
+        "F1":"wraparound porch",
+        "F2":"wood-burning fireplace",
+        "F3":"scenic views"
+
+    
+    },
+    {
+        "id":"8",
+        "Image":"https://i.ibb.co/7WXcd7H/download-8.jpg",
+        "estate_title":"Historic Victorian Mansion with Original Features Restored",
+        "segment_name":"Urban Condominiums",
+        "description":"Step back in time with this historic Victorian mansion meticulously restored to its former glory. From ornate woodwork to stained glass windows, every detail exudes timeless elegance and old-world charm. Imagine sipping tea in the parlor or hosting elegant dinner parties in the formal dining room, surrounded by the beauty and grandeur of a bygone era. With its sprawling grounds and picturesque setting, this mansion offers a glimpse into the past while providing all the modern amenities and comforts of contemporary living. Whether you're admiring the architecture or exploring the surrounding gardens, this Victorian mansion is sure to capture your imagination and steal your heart",
+        "Price":"12000",
+        "Status":"Sell",
+        "Area":"10000",
+        "location":"Beverly Hills, Los Angeles, California",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"2 Beds",
+        "Baths":"2 Baths",
+        "F1":"backyard",
+        "F2":"modern kitchen",
+        "F3":"home office"
+    
+    },
+    {
+        "id":"9",
+        "Image":"https://i.ibb.co/Nybj1SG/download.jpg",
+        "estate_title":"Secluded Lakeside Retreat with Private Dock",
+        "segment_name":"Luxury Residences",
+        "description":"Indulge in lakeside living at this secluded retreat featuring a private dock and expansive water views. Whether you're fishing off the pier or enjoying a sunset cruise, life on the lake offers endless opportunities for relaxation and recreation. Imagine waking up to the gentle lapping of waves against the shore and spending your days swimming, boating, or simply lounging on the deck with a good book. With its tranquil setting and breathtaking views, this lakeside retreat provides a welcome escape from the stresses of everyday life. Whether you're seeking adventure or simply seeking solace, this lakeside retreat offers the perfect blend of luxury and leisure for those who appreciate the finer things in life.",
+        "Price":"24000",
+        "Status":"Sell",
+        "Area":"70000",
+        "location":"Manhattan, New York City, New York",
+        "facilities":"1.Luxury Spa and Wellness Center,2.Movie Theater and Entertainment Lounge,3.Outdoor Kitchen and BBQ Area",
+        "Bed":"6 Beds",
+        "Baths":"4 Baths",
+        "F1":"wraparound porch",
+        "F2":"wood-burning fireplace",
+        "F3":"scenic views"
+       
+    }
+]
